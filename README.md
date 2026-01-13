@@ -1,5 +1,5 @@
 # Decimal to Binary Converter (Flutter)
-![App Preview](https://i.ibb.co/C3xZk362/d2b-git-repo.png)
+![App Preview](https://i.ibb.co/3ynpCs73/git.png)
 A simple and educational Flutter app that converts **decimal numbers to binary** using the **Squaring Method**.  
 This project is designed to help students and beginners understand how number systems work internally instead of relying on built-in functions.
 
@@ -66,5 +66,6 @@ Run the app:
 flutter pub get
 flutter run
 ```
+
 
 
