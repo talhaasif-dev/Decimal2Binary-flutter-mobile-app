@@ -54,11 +54,11 @@ This is exactly how the app works internally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/decimal-to-binary-flutter.git
+   git clone https://github.com/your-username/decimal2binary.git
    ```
 Open the project:
 ```bash
-cd decimal-to-binary-flutter
+cd decimal2binary
 ```
 
 Run the app:
@@ -66,3 +66,4 @@ Run the app:
 flutter pub get
 flutter run
 ```
+
